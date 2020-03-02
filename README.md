@@ -1,5 +1,5 @@
 # venkatesh-python-trainee
-challenging day-day task  and uploading in github 
+challenging day-day task  and uploadio meters ng in github 
 26/2/2020-Covered python literal  constants
 numbers
 strings
@@ -12,4 +12,9 @@ keywords -and,break,if,elsif....
 operators-arithmetic,relational,logic operators....
 practised example problems
 28/2/2020-Revised all concepts and programms for assessment and few codes were uploaded in git
- 
+3/2/2020-practised problems and uploaded in github
+ascending order 
+celsus fahrenheit 
+kilometers to meters
+random number
+swapping 
